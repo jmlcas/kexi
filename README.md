@@ -1,3 +1,3 @@
-Linkat-app
+Kexi
 
 Ver en "Localhost:3000"
