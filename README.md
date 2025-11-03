@@ -1,3 +1,3 @@
-Kexi
+# Kexi
 
-Ver en "Localhost:3000"
+Ver en "https://localhost:8300"
